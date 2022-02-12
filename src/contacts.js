@@ -1,3 +1,4 @@
+//array of contacts
 const contacts = [
   {
     name: "Beyonce",
@@ -21,3 +22,5 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+
+export default contacts;
